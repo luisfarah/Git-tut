@@ -10,3 +10,5 @@ Data ingestion stage 2
 I am fixing this bug.
 
 NOW THIS IS SOLVED
+
+batch data
