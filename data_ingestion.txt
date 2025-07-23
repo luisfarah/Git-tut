@@ -5,3 +5,4 @@ Bug fixed is now done
 Merge Conflict
 
 Merge conflict 2
+bug fixed - stashing
