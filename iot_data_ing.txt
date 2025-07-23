@@ -1,2 +1,3 @@
  New data ingested
 Ingestion of Real Time Data. git 
+Added new IOT devices
