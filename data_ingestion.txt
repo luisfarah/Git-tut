@@ -3,3 +3,5 @@ this is another data ingestion file
 bug fixed
 Bug fixed is now done
 Merge Conflict
+
+Merge conflict 2
